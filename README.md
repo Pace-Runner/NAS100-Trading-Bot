@@ -1,36 +1,37 @@
-# NAS100-Trading-Bot
-This repository documents the performance and logic of my NAS100 (US100) algorithmic trading bot. The strategy is built around moving average based signals, executed on MetaTrader, and tuned specifically for the NAS100 index’s volatility and structure.
-
-I am sharing the backtest results, strategy explanation, and performance metrics so others can learn from the system’s design.
-However, the full MetaTrader code and executable are intentionally not included, as I prefer to keep the implementation private.
+This repo shows the performance and idea behind my NAS100 (US100) trading bot.
+It’s based on a simple moving-average setup that I’ve been tuning for a while specifically for NAS100’s volatility. The bot runs on MetaTrader, but I'm not uploading the actual EA or executable — just the results and an overview of how the strategy works.
 
 📈 Strategy Summary
-The bot uses a rules-based moving-average framework to identify trend shifts and momentum continuation setups.
-Key components include:
 
-    Short-term and long-term moving averages
+The bot mainly uses:
 
-    Trend confirmation filters
+Short-term and long-term moving averages
 
-    Automatic position sizing and risk management
+Trend-confirmation filters
 
-    Stop-loss and take-profit structure optimized for NAS100 volatility
+Automated position sizing
 
+A stop-loss / TP structure built around NAS100 volatility
 
-These tests cover nearly 6 years using high-quality tick data.
+Basically, the bot looks for trend shifts and momentum continuation trades. Nothing overly complicated — just clean rules.
 
-Note: Backtests do not guarantee future performance, but they provide valuable insight into the strategy’s behaviour.
+📊 Backtest Info
 
-Why the Source Code Isn’t Included
+I'm adding screenshots from almost 6 years of backtests. These include equity curve, drawdown, profit factor, etc.
+They’re there to show how the system behaves, not to promise future results.
 
-    I’m choosing not to provide the EA/executable or MetaTrader code for the following reasons:
+🔒 Why the Code Isn’t Included
 
-    The system represents months of work and tuning
+I’m keeping the MetaTrader source to myself because:
 
-    Releasing it publicly would remove any competitive edge
+It took a lot of time to build
 
-    Prevents misuse, modification, or resale by others
+I don’t want it copied or resold
 
-    Protects the internal logic beyond the high-level description here
+It’s still a system I actively use
 
-This is completely normal for algorithmic trading projects. The repo focuses on transparency of results, not providing a free bot.
+Sharing the full code removes any real edge
+
+Most algo traders do the same — sharing results but not the bot itself.
+
+If you want to chat about the strategy or have suggestions, feel free to open an issue.
