@@ -8,7 +8,7 @@ However, the full MetaTrader code and executable are intentionally not included,
 The bot uses a rules-based moving-average framework to identify trend shifts and momentum continuation setups.
 Key components include:
 
-Short-term and long-term moving averages
+  Short-term and long-term moving averages
 
     Trend confirmation filters
 
