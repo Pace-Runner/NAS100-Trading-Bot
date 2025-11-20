@@ -10,11 +10,11 @@ Key components include:
 
 Short-term and long-term moving averages
 
-Trend confirmation filters
+  Trend confirmation filters
 
-Automatic position sizing and risk management
+  Automatic position sizing and risk management
 
-Stop-loss and take-profit structure optimized for NAS100 volatility
+  Stop-loss and take-profit structure optimized for NAS100 volatility
 
 These tests cover nearly 6 years using high-quality tick data.
 
