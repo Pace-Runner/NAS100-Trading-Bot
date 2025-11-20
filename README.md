@@ -15,7 +15,7 @@ Basically, the bot looks for trend shifts and momentum continuation trades.
 
 📊 Backtest Info
 
-I'm adding screenshots from almost 6 years of backtests. These include equity curve, drawdown, profit factor, etc.
+I'm adding screenshots from almost 6 years of backtests. These include equity curve, drawdown, profit factor, etc.  
 Note: Backtests do not guarantee future performance, but they provide valuable insight into the strategy’s behaviour.
 
 🔒 Why the Code Isn’t Included:
@@ -31,5 +31,11 @@ Note: Backtests do not guarantee future performance, but they provide valuable i
 Most algo traders do the same — sharing results but not the bot itself.
 
 If you want to chat about the strategy or have suggestions, feel free to message me!
+
+<img width="769" height="160" alt="image" src="https://github.com/user-attachments/assets/f2c029f5-166b-487d-93fd-8697c1f5450c" />
+
+<img width="1894" height="379" alt="image" src="https://github.com/user-attachments/assets/52dd138c-c544-4fed-a84f-53799e2a87c0" />
+
+<img width="1268" height="346" alt="image" src="https://github.com/user-attachments/assets/924dc65b-79eb-482f-93b2-7670bf376e15" />
 
 
