@@ -33,7 +33,7 @@ Most algo traders do the same — sharing results but not the bot itself.
 If you want to chat about the strategy or have suggestions, feel free to message me!
 
 <img width="769" height="160" alt="image" src="https://github.com/user-attachments/assets/f2c029f5-166b-487d-93fd-8697c1f5450c" />  
-<img width="2889" height="576" alt="image" src="https://github.com/user-attachments/assets/d5e547e1-4776-4f3b-a999-bdfcb6e06b70" />
+<img width="1989" height="476" alt="image" src="https://github.com/user-attachments/assets/d5e547e1-4776-4f3b-a999-bdfcb6e06b70" />
 
 
 
